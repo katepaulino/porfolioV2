@@ -1,1 +1,1 @@
-# Kate Paulino Lucas // Portfolio
+# Kate Borgen // Portfolio

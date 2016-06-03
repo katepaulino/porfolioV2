@@ -2,10 +2,6 @@ body {
   font-family: helvetica;
 }
 
-header {
-  background: #C0C0C0;
-}
-
 header .inner {
   width: 960px;
   height: 100px;
@@ -42,7 +38,7 @@ main .sub-banners li {
   list-style: none;
   float: left;
   margin-right: 30px;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 main .sub-banners li:last-child {
@@ -60,5 +56,15 @@ main .sub-banners li span {
 }
 
 .nav-items {
-  text-align: right;
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  float: right;
+  margin-top: -10px;
+}
+
+#nameLogo {
+  font-family: 'Satisfy', cursive;
+  font-size: 50px;
+  color: #000;
+  margin-left: -40px;
 }
