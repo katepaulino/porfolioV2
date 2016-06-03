@@ -41,6 +41,11 @@ main .sub-banners li {
   margin-top: 10px;
 }
 
+main .sub-banners img {
+  height: 200px;
+  width: 200px;
+}
+
 main .sub-banners li:last-child {
   margin-right: 0px;
   margin-bottom: 30px;
@@ -49,10 +54,14 @@ main .sub-banners li:last-child {
 main .sub-banners li span {
   display: none;
   position: absolute;
-  bottom: 0;
-  height: 150px;
+  bottom: 4px;
+  height: 100px;
   width: 100%;
-  background: orange;
+  background: #33CCCC;
+  opacity: 0.6;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  color: #000;
 }
 
 .nav-items {
@@ -64,7 +73,7 @@ main .sub-banners li span {
 
 #nameLogo {
   font-family: 'Satisfy', cursive;
-  font-size: 50px;
+  font-size: 60px;
   color: #000;
   margin-left: -40px;
 }
