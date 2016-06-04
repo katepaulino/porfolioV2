@@ -80,21 +80,21 @@ main .sub-banners li span {
 }
 
 a:link {
-    color: #989898;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #989898;
-    text-decoration: none;
-}
-
-a:hover {
     color: #000;
     text-decoration: none;
 }
 
-a:active {
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
     color: #989898;
+    text-decoration: none;
+}
+
+a:active {
+    color: #000;
     text-decoration: none;
 }
