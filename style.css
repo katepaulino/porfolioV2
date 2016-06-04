@@ -44,7 +44,7 @@ main .sub-banners li {
 main .sub-banners img {
   height: 200px;
   width: 200px;
-  border: 2px solid #000;
+  border: 1px solid #989898;
 }
 
 main .sub-banners li:last-child {
@@ -59,7 +59,7 @@ main .sub-banners li span {
   height: 100px;
   width: 100%;
   background: #fff;
-  opacity: 0.5;
+  opacity: 0.7;
   font-family: "Lato", sans-serif;
   font-size: 14px;
   color: #000;
@@ -77,4 +77,24 @@ main .sub-banners li span {
   font-size: 60px;
   color: #000;
   margin-left: -40px;
+}
+
+a:link {
+    color: #989898;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #989898;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+a:active {
+    color: #989898;
+    text-decoration: none;
 }
