@@ -1,1 +1,1 @@
-# Kate Borgen // Portfolio
+# Kate Borgen's Portfolio
